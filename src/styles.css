@@ -1,0 +1,55 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+:root {
+  --primary-color: #0069ff;
+}
+
+input {
+  width: 80%;
+  padding: 1rem;
+  display: block;
+  margin: auto;
+}
+.btns {
+  display: block;
+  margin: 1rem auto;
+  text-align: center;
+}
+
+.btn-primary {
+  width: 10rem;
+  height: 40px;
+  background-color: var(--primary-color);
+  color: white;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  font-size: large;
+  margin-right: 1rem;
+  border: 1px solid var(--primary-color);
+}
+
+.btn-secondary {
+  background-color: white;
+  border: 1px solid var(--primary-color);
+  width: 10rem;
+  height: 40px;
+  color: var(--primary-color);
+  border-radius: 0.5rem;
+  cursor: pointer;
+  font-size: large;
+  margin-right: 1rem;
+}
+
+/* button {
+  margin: 1rem auto;
+  border-radius: 5px;
+  width: 200px;
+  height: 7vh;
+  color: white;
+  background-color: #0069ff;
+  border: 1px solid #0069ff;
+  cursor: pointer;
+} */
