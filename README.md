@@ -1,2 +1,3 @@
 # Emoji-Encode-Decode-App
-Created with CodeSandbox
+
+A simple text to emoji and emoji to text app.
